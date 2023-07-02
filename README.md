@@ -1,0 +1,1 @@
+Simple API created in Python using the Flask framework and tested in Postman
